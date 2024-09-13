@@ -136,7 +136,7 @@ header {
 }
 
 #about .swiper-slide {
-    background-image: url(/img/image.jpg);
+    background-image: url(../img/image.jpg);
     background-size: cover;
 }
 
