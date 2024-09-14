@@ -3,7 +3,7 @@
 @font-face {
     font-family: 'MyCustomFont';
     /* Имя шрифта */
-    src: url('/fonts/bs.ttf') format('truetype');
+    src: url('../fonts/bs.ttf') format('truetype');
     /* Путь к файлу шрифта */
     font-weight: normal;
     /* Нормальный вес шрифта */
@@ -136,7 +136,7 @@ header {
 }
 
 #about .swiper-slide {
-    background-image: url(/img/image.jpg);
+    background-image: url(../img/image.jpg);
     background-size: cover;
 }
 
